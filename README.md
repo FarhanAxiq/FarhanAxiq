@@ -6,6 +6,15 @@ Selamat datang mean welcome in Malay. Therefore, welcome to my GitHub. Since you
 
 also, in the spirit of COVID, please wear mask and stay safe!
 
+## What I know:
+- C/C++
+- Java
+- Python
+
+## Connect with me:
+- LinkedIn - [Farhan Haziq](https://www.linkedin.com/in/farhan-haziq/)
+- Email - [@FarhanAxiq](mailto:FarhanAxiq@outlook.com).
+
 *This page looks best when using [Github's new dark mode](https://twitter.com/github/status/1336362679506784256)*
 
 <!--
