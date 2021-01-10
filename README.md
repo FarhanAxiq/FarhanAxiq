@@ -1,4 +1,4 @@
-<h2 align="center">Selamat Datang!</h2>
+<h2 align="center">👋 Selamat Datang! 👋</h2>
 
 Selamat datang mean welcome in Malay. Therefore, welcome to my GitHub. Since you're here, feel free to poke around my repo.
 
