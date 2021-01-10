@@ -1,5 +1,12 @@
-### Hello dan Selamat Datang to FarhanAxiq repository
-### TODO: Add more stuff here
+<h2 align="center">Selamat Datang!</h2>
+
+Selamat datang mean welcome in Malay. Therefore, welcome to my GitHub. Since you're here, feel free to poke around my repo.
+
+
+
+also, in the spirit of COVID, please wear mask and stay safe!
+
+*This page looks best when using [Github's new dark mode](https://twitter.com/github/status/1336362679506784256)*
 
 <!--
 **FarhanAxiq/FarhanAxiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
