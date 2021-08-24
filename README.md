@@ -10,12 +10,11 @@ also, in the spirit of COVID, please wear mask and stay safe!
 - C/C++
 - Java
 - Python
+- and more 
 
 ## Connect with me:
 - LinkedIn - [Farhan Haziq](https://www.linkedin.com/in/farhan-haziq/)
 - Email - [@FarhanAxiq](mailto:FarhanAxiq@outlook.com).
-
-*This page looks best when using [Github's new dark mode](https://twitter.com/github/status/1336362679506784256)*
 
 <!--
 **FarhanAxiq/FarhanAxiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
