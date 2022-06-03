@@ -2,15 +2,13 @@
 
 Selamat datang mean welcome in Malay. Therefore, welcome to my GitHub. Since you're here, feel free to poke around my repo.
 
-
-
-also, in the spirit of COVID, please wear mask and stay safe!
+I'm an average code enjoyer who write code for fun (and hopefully it might even impressed someone)
 
 ## What I know:
 - C/C++
 - Java
 - Python
-- and more 
+- JavaScript (and TypeScript)
 
 ## Connect with me:
 - LinkedIn - [Farhan Haziq](https://www.linkedin.com/in/farhan-haziq/)
