@@ -2,7 +2,7 @@
 
 Selamat datang mean welcome in Malay. Therefore, welcome to my GitHub. Since you're here, feel free to poke around my repo.
 
-I'm an average code enjoyer who write code for fun (and hopefully it might even impressed someone)
+I'm an average code enjoyer who write code for fun (and hopefully it might even impressed someone). Also yes, that mean I build experiences!
 
 ## What I know:
 - C/C++
